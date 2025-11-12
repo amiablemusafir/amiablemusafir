@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @amiablemusafir
-- 👀 I’m interested in java base code
-- 🌱 I’m currently working as TL at LTI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sumit.co.in
+👋 Hi, I'm Sumit Singh
+Specialist - Product Engineering | Tech Enthusiast | Problem Solver
 
 <!---
 amiablemusafir/amiablemusafir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
