@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Sumit Singh, Fullstack developer from <img src="https://icons8.com/icon/esGVrxg9VCJ1/india" width="13"/> <b>Delhi, INDIA</b>, currently living in <img src="https://icons8.com/icon/esGVrxg9VCJ1/india" width="13"/> <b>INDIA</b>. </p>
+<p>Welcome to my page! </br> I'm Sumit Singh, Fullstack developer from <img src="[https://icons8.com/icon/esGVrxg9VCJ1/india](https://img.icons8.com/?size=100&id=esGVrxg9VCJ1&format=png&color=000000)" width="13"/> <b>Delhi, INDIA</b>, currently living in <img src="https://icons8.com/icon/esGVrxg9VCJ1/india" width="13"/> <b>INDIA</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
