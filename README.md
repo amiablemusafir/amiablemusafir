@@ -1,8 +1,31 @@
+## 🚀 Overview  
+Turning ideas into **scalable, secure, and high-performance** applications.
+I design and build cloud-native systems and modern web interfaces using Java, Spring Boot, Microservices, and Angular, with a strong focus on **clean architecture, performance, and maintainability—helping businesses scale, stay resilient, and future-proof** their digital platforms.
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+**Imagine. Build. Scale.**
+Let’s create solutions that are robust, error-free, and ready for the future.
+
+---
+<h1 align="center">Welcome to my page!<br/>Hi 👋, I'm Sumit Singh</h1>
+<div align="center">
+<p>I am Fullstack developer from <b>Delhi, INDIA</b>, currently living in <b>INDIA <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30" alt="India Flag" /></b>.</p> 
+</div>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Fullstack+Developer;Java+J2EE+Springboot+Developer;Azure+AKS&center=true&size=30&width=500&duration=3500&color=40F8FF" style="vertical-align: middle;"></a>
+</h1>
 
 
-<p>Welcome to my page! </br> I'm Sumit Singh, Fullstack developer from <img src="[https://icons8.com/icon/esGVrxg9VCJ1/india](https://img.icons8.com/?size=100&id=esGVrxg9VCJ1&format=png&color=000000)" width="13"/> <b>Delhi, INDIA</b>, currently living in <img src="https://icons8.com/icon/esGVrxg9VCJ1/india" width="13"/> <b>INDIA</b>. </p>
+---
+
+## 👨‍💻 About Me  
+Hi 👋 I’m Sumit, a Java Full-Stack & Microservices Developer with hands-on experience in Spring Boot, Angular, and Azure AKS.
+
+I focus on building scalable, cloud-native, and enterprise-grade applications using microservices architecture, with strong attention to clean code, system design, and performance optimization.
+
+I enjoy collaborating across teams, designing robust REST APIs, and delivering secure, reliable solutions that are easy to maintain and ready for production.
+
+---
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -55,6 +78,7 @@
 - 📧 Email: sumit.brjn@gmail.com  
 - 📱 WhatsApp: [https://wa.me/+919958584710](https://wa.me/+919958584710)  
 
+<br/><b/>
 Thank you for reaching out!  
 — **Sumit Singh**
 
