@@ -31,6 +31,35 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+---
+
+
+## Join me on:
+<p align="left">
+<a href="https://twitter.com/amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourayansujon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayansujon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20808467/ayan-sujon" height="30" width="40" /></a>
+<a href="https://fb.com/sumit.brjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourayansujon" height="30" width="40" /></a>
+<a href="https://instagram.com/amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayansujon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayan-sujon" height="30" width="40" /></a>
+</p>
+
+---
+
+## 📬 Active Contact Channels
+
+- 🌐 Website: [https://www.sumit.co.in/contact/](https://www.sumit.co.in/contact/)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/sumit10/](https://www.linkedin.com/in/sumit10/)  (recommended)
+- 📧 Email: sumit.brjn@gmail.com  
+- 📱 WhatsApp: [https://wa.me/+919958584710](https://wa.me/+919958584710)  
+
+Thank you for reaching out!  
+— **Sumit Singh**
+
+
+---
 <!--
 <h3>Open source projects</h3>
 <table>
