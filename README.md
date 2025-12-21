@@ -25,7 +25,6 @@ I focus on building scalable, cloud-native, and enterprise-grade applications us
 I enjoy collaborating across teams, designing robust REST APIs, and delivering secure, reliable solutions that are easy to maintain and ready for production.
 
 ---
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -55,9 +54,38 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+---
+
+## 🔥 Current Activities
+
+- 🚀 Exploring advanced Spring Boot & Microservices patterns to build scalable, fault-tolerant systems
+- ☁️ Deepening hands-on experience with Azure AKS for cloud-native deployments and orchestration
+- 🧩 Improving Angular architecture & reusable components for clean, maintainable UIs
+- ⚙️ Optimizing REST APIs and backend performance for enterprise-grade applications
+- 🧠 Learning more about system design & cloud architecture to build smarter, future-ready solutions
+- ⚡ Fun fact: I enjoy debugging production issues almost as much as writing clean code to prevent them
 
 ---
 
+## 🚧 Upcoming Projects
+
+- 🚀 **Attendo** – Cloud-native attendance platform (Spring Boot, Microservices, Angular, Azure AKS)  
+- ⚙️ **Microservices Boilerplate** – Enterprise-ready starter architecture  
+- ☁️ **Task Management System** – Secure, scalable, cloud-native application  
+- 🧠 **System Design Lab** – Performance, scalability & resilience experiments  
+
+---
+
+
+## 📊 GitHub Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiablemusafir&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amiablemusafir&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amiablemusafir&theme=transparent&hide_border=true) |
+
+
+
+---
 
 ## Join me on:
 <p align="left">
