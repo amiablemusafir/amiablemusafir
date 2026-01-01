@@ -81,11 +81,24 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 
 ## 📊 GitHub Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitcoin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitcoin&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://streak-stats.demolab.com/?user=sumitcoin&theme=transparent&hide_border=true) |
-
-
+<table align="center">
+  <tr>
+    <th>Top Languages</th>
+    <th>GitHub Stats</th>
+    <th>GitHub Streak</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitcoin&layout=compact&theme=transparent&hide_border=true" height="140"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sumitcoin&show_icons=true&theme=transparent&hide_border=true" height="140"/>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=sumitcoin&theme=transparent&hide_border=true" height="140"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
