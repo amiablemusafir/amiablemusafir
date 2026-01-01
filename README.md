@@ -79,29 +79,12 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
+| Top Languages | GitHub Stats | GitHub Streak | 
 
-<table align="center">
-  <tr>
-    <th>Top Languages</th>
-    <th>GitHub Stats</th>
-    <th>GitHub Streak</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitcoin&layout=compact&theme=transparent&hide_border=true" height="140"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sumitcoin&show_icons=true&theme=transparent&hide_border=true" height="140"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=sumitcoin&theme=transparent&hide_border=true" height="140"/>
-    </td>
-  </tr>
-</table>
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitcoin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitcoin&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sumitcoin&theme=ambient_gradient&hide_border=true) |
 
 ---
-
 ## Join me on:
 <p align="left">
 <a href="https://twitter.com/amiablemusafir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourayansujon" height="30" width="40" /></a>
