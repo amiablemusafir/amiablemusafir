@@ -79,10 +79,11 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 ---
 
 
-## 📊 GitHub Stats 
-| Top Languages | GitHub Stats | GitHub Streak | 
+## 📊 GitHub Stats
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitcoin&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitcoin&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sumitcoin&theme=ambient_gradient&hide_border=true) |
+| Top Languages | GitHub Stats | GitHub Streak |
+|--------------|--------------|--------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitcoin&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitcoin&show_icons=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=sumitcoin) |
 
 ---
 ## Join me on:
