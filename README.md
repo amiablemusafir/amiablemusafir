@@ -14,7 +14,6 @@ Let’s create solutions that are robust, error-free, and ready for the future.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tech+Enthusiast;Fullstack+Developer;Java+J2EE+Springboot+Developer;Azure+AKS&center=true&size=30&width=500&duration=3500&color=#0A66C2" style="vertical-align: middle;"></a>
 </h1>
 
-
 ---
 
 ## 👨‍💻 About Me  
@@ -82,11 +81,11 @@ I enjoy collaborating across teams, designing robust REST APIs, and delivering s
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitcoin&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitcoin&theme=tokyonight" height="160" width="25%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitcoin&theme=vision-friendly-dark"  height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitcoin&theme=vision-friendly-dark"  height="160" width="40%"/>
 
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitcoin&theme=gruvbox" height="160"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumitcoin&theme=gruvbox" height="160" width="25%"/>
 
 
 </p>
